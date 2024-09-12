@@ -1,0 +1,4 @@
+#--index https://pypi.tuna.tsinghua.edu.cn/simple/
+pandas==2.2.2
+numpy==2.1.1
+matplotlib==3.9.2
