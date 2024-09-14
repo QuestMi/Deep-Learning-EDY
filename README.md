@@ -17,6 +17,8 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 ### 三、每日更新内容
+**2024-09-14神经网络-多维数组**
+![2024-09-14每天看点-深度学习.png](EveryDay/2024-09-14%E6%AF%8F%E5%A4%A9%E7%9C%8B%E7%82%B9-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.png)
 **2024-09-13激活函数-sigmoid函数**
 ![2024-09-13每天看点-深度学习.png](EveryDay/2024-09-13%E6%AF%8F%E5%A4%A9%E7%9C%8B%E7%82%B9-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.png)
 **2024-09-12神经网络**
